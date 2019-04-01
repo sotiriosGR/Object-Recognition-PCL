@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Sotiris Alexiou\Desktop\Object Recognition\ObjectReco\build\CMakeFiles\8bba7462aae6b66e809f7c4649abb866\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E52419EC-7AB0-3FF0-8CEF-F05837B1448D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
